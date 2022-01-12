@@ -1,4 +1,4 @@
-# fractal
+# fractal-image
 
 ## Project setup
 ```
